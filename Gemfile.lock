@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/sean.miller/workspace/webpacker
+GIT
+  remote: git@github.com:logikcull/webpacker.git
+  revision: 3db2c89b3647706092954e40c91e093241ee590f
+  branch: feature-ruby-212-support
   specs:
     webpacker (4.0.0.pre.3)
       activesupport (>= 4.2.7.1)

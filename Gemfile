@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'webpacker', path: '/Users/sean.miller/workspace/webpacker'
+gem 'webpacker', git: 'git@github.com:logikcull/webpacker.git', branch: 'feature-ruby-212-support'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
